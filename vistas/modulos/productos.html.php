@@ -306,23 +306,6 @@ MODAL AGREGAR PRODUCTO
 
             </div>
 
-            <!-- ENTRADA PARA SUBIR FOTO -->
-
-             <div class="form-group">
-              
-              <div class="panel">SUBIR IMAGEN</div>
-
-              <input type="file" id="nuevaImagen" name="nuevaImagen">
-
-              <p class="help-block">Peso máximo de la imagen 2MB</p>
-
-              <img src="vistas/img/productos/default/anonymous.png" class="img-thumbnail" width="100px">
-
-            </div>
-
-          </div>
-
-        </div>
 
         <!--=====================================
         PIE DEL MODAL
